@@ -1,0 +1,30 @@
+2025-12-04 12:10:16,780 [INFO] === Campus Energy Dashboard Script Starting ===
+2025-12-04 12:10:16,782 [INFO] Reading file: data\Canteen.csv
+2025-12-04 12:10:16,822 [INFO] Loaded 3 rows for building 'Canteen'
+2025-12-04 12:10:16,823 [INFO] Reading file: data\Hostel.csv
+2025-12-04 12:10:16,845 [INFO] Loaded 3 rows for building 'Hostel'
+2025-12-04 12:10:16,846 [INFO] Reading file: data\Library.csv
+2025-12-04 12:10:16,861 [INFO] Loaded 3 rows for building 'Library'
+2025-12-04 12:10:16,870 [INFO] Combined DataFrame contains 9 rows from 3 files.
+2025-12-04 14:35:27,663 [INFO] === Campus Energy Dashboard Script Starting ===
+2025-12-04 14:35:27,666 [INFO] Reading file: data\Canteen.csv
+2025-12-04 14:35:27,734 [INFO] Loaded 3 rows for building 'Canteen'
+2025-12-04 14:35:27,734 [INFO] Reading file: data\Hostel.csv
+2025-12-04 14:35:27,745 [INFO] Loaded 3 rows for building 'Hostel'
+2025-12-04 14:35:27,745 [INFO] Reading file: data\Library.csv
+2025-12-04 14:35:27,758 [INFO] Loaded 3 rows for building 'Library'
+2025-12-04 14:35:27,768 [INFO] Combined DataFrame contains 9 rows from 3 files.
+2025-12-04 14:37:30,776 [INFO] === Campus Energy Dashboard Script Starting ===
+2025-12-04 14:37:30,778 [INFO] Reading file: data\Canteen.csv
+2025-12-04 14:37:30,799 [INFO] Loaded 3 rows for building 'Canteen'
+2025-12-04 14:37:30,828 [INFO] Reading file: data\Hostel.csv
+2025-12-04 14:37:30,841 [INFO] Loaded 3 rows for building 'Hostel'
+2025-12-04 14:37:30,841 [INFO] Reading file: data\Library.csv
+2025-12-04 14:37:30,851 [INFO] Loaded 3 rows for building 'Library'
+2025-12-04 14:37:30,857 [INFO] Combined DataFrame contains 9 rows from 3 files.
+2025-12-04 14:37:32,104 [INFO] Dashboard saved to output\dashboard.png
+2025-12-04 14:37:32,127 [INFO] Saved cleaned data to output\cleaned_energy_data.csv
+2025-12-04 14:37:32,138 [INFO] Saved building summary to output\building_summary.csv
+2025-12-04 14:37:32,148 [INFO] Saved summary text to output\summary.txt
+2025-12-04 14:37:32,149 [INFO] === Script completed successfully ===
+2025-12-04 14:37:32,155 [INFO] Outputs written to C:\Users\lenovo\OneDrive\Desktop\CampusEnergyConsumption\output

@@ -1,0 +1,15 @@
+CAMPUS ENERGY USAGE - EXECUTIVE SUMMARY
+======================================
+
+Total campus consumption (kWh): 143.40
+Highest-consuming building: Hostel (total kWh = 62.30)
+Campus peak single-reading time: 2025-04-12 09:00:00
+
+Top-level weekly/daily trends:
+- Daily totals: see cleaned_energy_data.csv and dashboard image
+- Weekly averages per building: see building_summary.csv and dashboard
+
+Notes and anomalies:
+- Missing rows / corrupt lines were skipped during ingestion (see ingestion.log)
+- Timeseries aggregated by day/week in local timestamps provided in input
+- Consider normalizing meter sampling frequency if sensors differ across buildings
