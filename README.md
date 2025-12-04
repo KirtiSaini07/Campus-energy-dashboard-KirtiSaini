@@ -14,14 +14,14 @@ Each CSV contains:
 - `kwh` – energy consumed in kilowatt-hours  
 - One file per building (e.g., Library.csv, Hostel.csv, Canteen.csv)
 
-All CSV files are stored inside the `data/` directory.
+All CSV files are stored inside the `data` folder.
 
 ---
 
 ## 📌 Methodology
 
 ### **1. Data Ingestion**
-- Load all CSV files from the `data/` folder  
+- Load all CSV files from the `data` folder  
 - Validate timestamps and numeric values  
 - Log missing or invalid entries  
 - Combine all building data into a unified DataFrame  
